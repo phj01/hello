@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 개쩌는 개발자 박현준입니다.
+# 👋 안녕하세요, 박현준입니다.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hyunjun's%20Dev%20Space&fontSize=70" />
